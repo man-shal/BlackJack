@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596981460 source:d:\codes\projects\blackjack\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	<random>
+	<array>
+
